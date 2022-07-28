@@ -1,23 +1,27 @@
-#the mod name as displayed in-game
-displayName: "Java Mod Template"
-
-#the internal name of your mod
-name: "example-java-mod"
-
-#your name
-author: "You"
-
-#the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
-
-#the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
-
-#the mod version
-version: 1.0
-
-#the minimum game build required to run this mod
-minGameVersion: 129
-
-#this is a java mod
+  "name": "creators",
+  "main": "creators.Creators",
+  "displayName": "创世神2-起源独立版",
+  "author": "[pink]编[cyan]号[red]95[violet]27",
+  "description": "
+ 
+  本模组的战役较难，不适合初次接触此游戏的玩家
+  模组难点体现在：
+波次时间短
+地形复杂
+敌人强大
+建议多多发展后勤资源
+使用发射台来提供源源不断的资源
+-
+The campaign of this mod is very difficult and not suitable for players who are new to this game
+It is recommended to have an understanding of the game after clearing the original version before playing this mod
+The difficulty of the module is reflected in:
+Waves are very short
+Complex terrain
+the enemy is strong
+It is recommended to develop more logistical resources
+Use launch pads to provide a steady stream of resources
+------------------创世神起源
+",
+  "version": "独立版-2.15",
+  "minGameVersion": 136
 java: true
